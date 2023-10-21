@@ -40,6 +40,8 @@ The goal of this project is to build a logistic regression learning model using 
 - Language: Python
 - Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, pickle, imblearn, statsmodels
 
+---
+
 ## Approach
 
 1. Import the required libraries and read the dataset.
@@ -53,6 +55,8 @@ The goal of this project is to build a logistic regression learning model using 
 9. Save the best model in the form of a pickle file.
 10. Inspect and clean up the data, including data encoding on categorical variables.
 
+---
+
 ## Modular Code Overview
 
 1. **input**: Contains all the data files for analysis, such as `Data_regression.csv`.
@@ -64,17 +68,16 @@ The goal of this project is to build a logistic regression learning model using 
 
 ## Concepts Explored:
 
-1. Understanding the basics of classification.
-2. Introduction to Logistic Regression and the logistic function.
-3. Understanding coefficients in Logistic Regression.
-4. The concept of maximum log-likelihood.
-5. Performance metrics like confusion matrix, recall, accuracy, precision, F1-score, AUC, and ROC.
-6. Importing the dataset and required libraries.
-7. Basic Exploratory Data Analysis (EDA) using Python libraries.
-8. Data inspection and cleaning.
-9. Building models with statsmodels and scikit-learn.
-10. Splitting the dataset into training and test sets.
-11. Model validation with various metrics.
-12. Handling unbalanced data with different techniques.
-13. Feature selection methods.
-14. Saving the best model in pickle format for future use.
+1. Logistic Regression and the logistic function.
+2. Coefficients in Logistic Regression.
+3. Maximum log-likelihood.
+4. Confusion matrix, recall, accuracy, precision, F1-score, AUC, and ROC.
+5. Basic Exploratory Data Analysis (EDA)
+6. Data inspection and cleaning.
+7. Building models with statsmodels and scikit-learn.
+8. Model validation with various metrics.
+9. Handling unbalanced data with different techniques.
+10. Feature selection methods.
+11. Saving the best model in pickle format for future use.
+
+---
