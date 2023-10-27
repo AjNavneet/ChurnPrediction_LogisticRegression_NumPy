@@ -1,4 +1,4 @@
-# Logistic Regression using Numpy - Churn
+# Logistic Regression using Numpy - Churn Classification
 
 ## Business Objective
 
