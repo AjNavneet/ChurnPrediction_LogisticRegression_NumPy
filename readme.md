@@ -65,19 +65,3 @@ The goal of this project is to build a logistic regression learning model using 
 4. **lib**: A reference folder containing the original iPython notebook used in the project.
 
 ---
-
-## Concepts Explored:
-
-1. Logistic Regression and the logistic function.
-2. Coefficients in Logistic Regression.
-3. Maximum log-likelihood.
-4. Confusion matrix, recall, accuracy, precision, F1-score, AUC, and ROC.
-5. Basic Exploratory Data Analysis (EDA)
-6. Data inspection and cleaning.
-7. Building models with statsmodels and scikit-learn.
-8. Model validation with various metrics.
-9. Handling unbalanced data with different techniques.
-10. Feature selection methods.
-11. Saving the best model in pickle format for future use.
-
----
