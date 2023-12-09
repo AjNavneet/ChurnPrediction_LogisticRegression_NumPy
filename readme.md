@@ -37,8 +37,8 @@ The goal of this project is to build a logistic regression learning model using 
 
 ## Tech Stack
 
-- Language: Python
-- Libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, pickle, imblearn, statsmodels
+- Language: `Python`
+- Libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `pickle`, `imblearn`, `statsmodels`
 
 ---
 
